@@ -21,7 +21,7 @@
             "style": "full"
           },
           "template": " \uf07b {{ .Path }} ",
-          "foreground": "#d5d9f8",
+          "foreground": "#8a8ca0",
           "type": "path",
           "style": "plain"
         },
@@ -56,7 +56,7 @@
           "properties": {
             "cache_duration": "none"
           },
-          "template": "# ",
+          "template": "$ ",
           "foreground": "#CD4277",
           "type": "text",
           "style": "plain"
